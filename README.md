@@ -26,14 +26,13 @@ The application scans pre-defined RSS sources, automatically filtering out spons
 
 ### 🛠️ Tech Stack
 * **AI:** Google Gemini API
-* **Scraping:** BeautifulSoup4, Feedparser, Requests
 * **UI:** Gradio
 * **Environment:** Python 3.x
 
 ---
 
-## 📁 Project Structure
-* `DailyBrieflyAI.ipynb`: The main orchestrator that runs the UI and manages the data flow.
+### 📁 Project Structure
+* `DailyBrieflyAI.ipynb`: Main dashboard and UI for generating the daily briefing
 * `scraping.py`: Contains the logic for news harvesting, HTML cleaning, and CSS styling.
 * `prompts.py`: Houses the sophisticated System and User prompts that guide the AI's reasoning.
 * `requirements.txt`: A list of all necessary Python dependencies.
