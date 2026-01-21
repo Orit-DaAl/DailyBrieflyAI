@@ -4,6 +4,7 @@
 DailyBrieflyAI is an intelligent system designed to curate and summarize the day's most important news by category. Instead of overwhelming the user with endless feeds, the system selects and presents the top 10 most current, significant, and impactful articles based on the user's selection. 
 
 Leveraging the **Google Gemini API**, the system filters out the noise and delivers high-value insights in a clean, professional, and readable format.
+**Built with Python and Gradio for the interface.**
 
 ---
 
