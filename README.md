@@ -1,5 +1,5 @@
 # 📰 DailyBrieflyAI
-**Automated Daily News Curation & Summarization System**
+**An intelligent system for curated daily news summaries**
 
 DailyBrieflyAI is an intelligent system designed to curate and summarize the day's most important news by category. Instead of overwhelming the user with endless feeds, the system selects and presents the top 10 most current, significant, and impactful articles based on the user's selection. 
 
