@@ -60,5 +60,5 @@ Open the Jupyter Notebook (DailyBrieflyAI.ipynb) and execute the cells. The Grad
 ---
 
 📞 Contact with me: 
-**Orit Alster** - [LinkedIn Profile](https://www.linkedin.com/in/orit-davidyan-alster-61aa2b144)
+**Orit Alster** - [LinkedIn Profile](https://www.linkedin.com/in/orit-alster/)
 
